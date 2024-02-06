@@ -5,13 +5,12 @@
 - Ask me about startups and venture capital
 - Fund Fact: I know to solve 7 different types of rubix cubes.
 
-[![](https://ossrank.com/widget/771609)](https://ossrank.com/c/771609)
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=jayko001)
 
 
 <!--
 **Jayko001/Jayko001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![](https://ossrank.com/widget/771609)](https://ossrank.com/c/771609)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
